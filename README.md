@@ -1,6 +1,6 @@
 [![Licence](https://img.shields.io/cocoapods/l/LivenessSDK?color=red&logo=red)](https://img.shields.io/cocoapods/l/LivenessSDK?color=red&logo=red)
 
-# Face Match SDK
+# Face Match Docker
 
 ## Introduction
 Brought to you by FaceX.io, this docker image can now be used to host FaceX Face Match API on your server.
