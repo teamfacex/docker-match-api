@@ -1,3 +1,5 @@
+[![Licence](https://img.shields.io/cocoapods/l/LivenessSDK?color=red&logo=red)](https://img.shields.io/cocoapods/l/LivenessSDK?color=red&logo=red)
+
 # Face Match SDK
 
 ## Introduction
