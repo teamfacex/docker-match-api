@@ -1,5 +1,22 @@
 # Face Match SDK
 
+## Introduction
+Brought to you by FaceX.io, this docker image can now be used to host FaceX Face Match API on your server.
+
+## Index
+* [Setup](#setup)
+* [Features](#-features)
+* [Installation](#-installation)
+  * [Cocoapods](#using-cocoapods)
+* [How to use](#-how-to-use)
+* [Delegates](#-Delegates)
+   * [LivenessDelegate](#-LivenessDelegate)
+* [Customization](#-customization)
+  * [Steps](#-Steps)
+  * [Thersholds](#-Thresholds)  
+* [Supported OS & SDK Versions](#-supported-os--sdk-versions)
+* [License](#-license)
+
 ## Setup
 1. Download the docker image file provided as a tar archive `face_api.tar.gz`
 
