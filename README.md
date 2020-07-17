@@ -5,18 +5,20 @@ Brought to you by FaceX.io, this docker image can now be used to host FaceX Face
 
 ## Index
 * [Setup](#setup)
-* [Features](#-features)
-* [Installation](#-installation)
-  * [Cocoapods](#using-cocoapods)
-* [How to use](#-how-to-use)
-* [Delegates](#-Delegates)
-   * [LivenessDelegate](#-LivenessDelegate)
-* [Customization](#-customization)
-  * [Steps](#-Steps)
-  * [Thersholds](#-Thresholds)  
-* [Supported OS & SDK Versions](#-supported-os--sdk-versions)
-* [License](#-license)
+* [Interacting with the server](#interacting-with-the-server)
+* [Face Detection]#face-detection)
+  * [Endpoint](#endpoint)
+  * [Response](#response-)
+* [Face Match](#face-match)
+  * [Endpoint](#endpoint-)
+  * [Query Parameters](#query-parameters-)
+  * [Body Parameters](#body-parameters-) 
+  * [Response](#response--1)
+* [Errors and Warnings](#error-and-warnings)
+  * [Server Side](#server-side-)
+  * [API error Responses](#api-error-responses)
 
+  
 ## Setup
 1. Download the docker image file provided as a tar archive `face_api.tar.gz`
 
