@@ -6,7 +6,7 @@ Brought to you by FaceX.io, this docker image can now be used to host FaceX Face
 ## Index
 * [Setup](#setup)
 * [Interacting with the server](#interacting-with-the-server)
-* [Face Detection]#face-detection)
+* [Face Detection](#face-detection)
   * [Endpoint](#endpoint)
   * [Response](#response-)
 * [Face Match](#face-match)
