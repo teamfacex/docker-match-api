@@ -153,6 +153,8 @@ img_2 | required |file |image file containing a face|
 
 #### Response :
 
+If the Euclidean Distance of the images is less than the threshold of 0.8, it can be concluded that the faces are a MATCH and naturally above 0.8 it can be considered NOT A MATCH.
+
 On face match :
 ```
 {
